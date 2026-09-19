@@ -1,0 +1,19 @@
+{
+  "Author": "Join-Taoist",
+  "Name": "Zhuangzi",
+  "InternalName": "Zhuangzi",
+  "AssemblyVersion": "0.1.9.1",
+  "Description": "/zz→打开Zhuangzi配置窗口",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
+  "Tags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "/zz→打开Zhuangzi配置窗口",
+  "AcceptsFeedback": true
+}
