@@ -3,7 +3,7 @@
     "Author": "Join-Taoist",
     "Name": "Zhuangzi Test",
     "InternalName": "Zhuangzi",
-    "AssemblyVersion": "0.1.11.89",
+    "AssemblyVersion": "0.1.11.90",
     "Description": "[TEST] Zhuangzi 未发布功能验证版",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Test-Repo",
@@ -21,6 +21,6 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Join-Taoist/Join-Taoist-Zhuangzi-Test-Repo/main/plugins/Zhuangzi/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Join-Taoist/Join-Taoist-Zhuangzi-Test-Repo/main/plugins/Zhuangzi/latest.zip",
-    "LastUpdate": 1790155862
+    "LastUpdate": 1790156801
   }
 ]
